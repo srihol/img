@@ -1,2 +1,2 @@
 # 博客图床
-blog.tsuicle.net
+**blog.tsuicle.net**
